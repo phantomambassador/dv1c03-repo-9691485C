@@ -1,3 +1,5 @@
+// SCM polling verification
+
 pipeline {
     agent any
 
