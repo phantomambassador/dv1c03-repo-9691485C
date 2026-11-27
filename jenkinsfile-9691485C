@@ -50,3 +50,5 @@ pipeline {
                 echo 'STG5-9691485C: Getting ready for next phase'
             }
         }
+    }
+}
